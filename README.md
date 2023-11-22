@@ -19,3 +19,5 @@ A generic implementation of an InheritedWidget.
 Any descendant of this widget can obtain value using Provider.of.
 
 Do not use this class directly unless you are creating a custom "Provider". Instead use Provider class, which wraps InheritedProvider.
+
+https://medium.com/flutter-community/understanding-provider-in-diagrams-part-1-providing-values-4379aa1e7fd5
